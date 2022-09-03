@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1662221949 source:c:\users\ahmed\pictures\final-c\cfile.c
+	<stdio.h>
+	<stdlib.h>
+
+1662221949 source:c:\users\ahmed\pictures\final-c\main.c
+	"head.h"
+
+1662220857 c:\users\ahmed\pictures\final-c\head.h
+
